@@ -1,0 +1,44 @@
+Go j'veux du Go, pas du Spring Boot
+Lyrics by Romain Rochegude
+
+Le dev c'est d'l'artisanat, un set de bonnes pratiques
+Pour l'intégration continue, j'utilise Jenkins
+Toujours la même routine et de l'huile de coude,
+Compileur, débuggueur, serveur ça devient l'enfer
+On livre toujours en retard, sans passer à l'échelle
+
+Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Pas du Spring Boot
+
+Ca me met en pétard, d'avoir une telle stack
+Faire juste une API, c'est le starter pack
+Faut s'tenir bien assis pour avoir de l'aide
+Bien garder le rythme pour une app pas trop laide
+Beaucoup de refactoring pour apprendre à coder
+Du log et du monitoring, et espérer livrer
+
+Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Pas du Spring Boot
+
+Implémenter les stories, suivre le release plan
+Ca me fait peur d'avoir de la logique domaine
+Ca revient sans cesse dans un nouveau round
+Il y a toujours un hic, et l'appli est down
+Jamais un bon moyen d'avoir des insights
+Il me faut un Spring Boot plus light
+
+Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go j'veux du Go, Go
+Go
+Pas du Spring Boot
