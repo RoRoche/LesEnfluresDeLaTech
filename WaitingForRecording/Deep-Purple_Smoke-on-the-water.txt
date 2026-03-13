@@ -7,7 +7,7 @@ Pour faire un rapport global
 On n'a jamais le time
 Pas l'temps pour les phases de discover
 Faut faire baisser l'burndown
-Respecter la definition of down
+Respecter la definition of done
 Tu veux une vélocité plus grande
 
 Toi, le Scrum Master: observe les KPI
