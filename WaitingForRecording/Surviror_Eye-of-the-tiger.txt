@@ -18,8 +18,8 @@ On te challenge lors de cette trouvaille de manager
 
 Face à face, t'affiches tes limites
 T'es bloqué, pas d'empathie
-Tu d'mandes aux autres mais c'est sans souvent suite
-Pas si agile, Et un peu trop passive
+Tu d'mandes aux autres mais c'est souvent sans suite
+Pas si agile, et un peu trop passive
 
 Cette trouvaille de manager, une réunion maudite
 Le reflet d'un process anormal
@@ -27,9 +27,9 @@ Code dégueulasse, un bug à chaque commit
 On te challenge lors de cette trouvaille de manager
 
 Ton ramp-up, bientôt au top
-Pull request, tu reprends de l'envie
+Pull request, tu r'prends de l'envie
 Tiens la cadence, y'a plus rien qui te stoppe
-Juste un dev qui code fort et qui livre
+Juste un dev qui code propre et qui livre
 
 Cette trouvaille de manager, une réunion moins maudite
 Quand tu parles, c'est un vrai festival
